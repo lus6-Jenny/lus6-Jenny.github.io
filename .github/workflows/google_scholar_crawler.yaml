@@ -21,7 +21,8 @@ jobs:
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
         python3 main.py
-        cd ./results
+        # cd ./results
+        cd ..
         # git init
         git config --local user.name "${GITHUB_ACTOR}"
         git config --local user.email "lus6@mail.uc.edu"
