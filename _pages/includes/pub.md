@@ -4,6 +4,12 @@
 \* represents equal contribution.
 
 ##  2025
+- [Sparse Hierarchical LiDAR Bundle Adjustment for Online Collaborative Localization and Mapping](xxx)  [[PDF]](xxx)
+
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Jiangpin Liu, Xuecheng Xu, **<u>Sha Lu</u>**, Si Wang, Chaoqun Wang, Rong Xiong, Yue Wang
+
 - [CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving](https://arxiv.org/abs/2502.19908)  [[PDF]](https://arxiv.org/abs/2502.19908)
 
   *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2025)***
