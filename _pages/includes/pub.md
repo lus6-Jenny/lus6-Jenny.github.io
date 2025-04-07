@@ -4,7 +4,7 @@
 \* represents equal contribution.
 
 ##  2025
-- [Sparse Hierarchical LiDAR Bundle Adjustment for Online Collaborative Localization and Mapping](xxx)  [[PDF]](xxx)
+- [Sparse Hierarchical LiDAR Bundle Adjustment for Online Collaborative Localization and Mapping](https://ieeexplore.ieee.org/abstract/document/10947501)  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10947501)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
   
