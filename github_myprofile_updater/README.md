@@ -11,7 +11,7 @@
 
 - Here is my extended CV ([pdf](cv/cv_ls.pdf)).
 
-##<span id="educations"></span>
+<span id="educations"></span>
 
 # 📖 Educations
 - **2021.09 - 2026.06**, Ph.D. in Robotics, Zhejiang University<br>
@@ -21,17 +21,20 @@
   _Chongqing, China, SUPERVISOR: Prof. Dr. Janet Dong_<br>
   THESIS: Design of a lightweight robotic mule
 
-<!-- <span id="experience"></span>
-# 👨‍🔧 Working Experience
-## ACADEMIC WORKING EXPERIENCE
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2022.12 ‑ Present</strong> Associate Professor<br>
-  <span style="font-size: 90%;">National University of Defense Technology </span>
+<span id="experience"></span>
+
+# 👨‍🔧 Internships
+
+<!-- ## ACADEMIC WORKING EXPERIENCE -->
+- <p style="margin: 0.5; line-height: 1.5;">
+  <strong>2025.04 ‑ Present</strong> Research Intern<br>
+  <span style="font-size: 90%;">Seed-Robotics, <a href="https://www.bytedance.com/zh/">ByteDance</a>, China </span>
   </p>
-- <p style="margin: 0; line-height: 1.2;">
-  <strong>2019.09 ‑ 2022.09</strong> Research Assistant<br>
-  <span style="font-size: 90%;">University of Bonn </span>
-  </p> -->
+
+- <p style="margin: 0.5; line-height: 1.5;">
+  <strong>2018.12 - 2019.11</strong> Research Intern<br>
+  <span style="font-size: 90%;">Computer Vision Department, <a href="https://www.cisdigroup.com.cn/">CISDI</a>, China </span>
+  </p>
 
 <!-- ## RESEARCH COMMITTEE MEMBERSHIP
 - <p style="margin: 0; line-height: 1.2;">
@@ -52,11 +55,22 @@
   </p> -->
 
 
+<span id="service"></span>
+
+# 📝 Academic Service
+
+Reviewer for top robotics journals and conferences:
+  - IJRR (The International Journal of Robotics Research)
+  - IEEE RAL (Robotics and Automation Letters)
+  - ICRA (IEEE International Conference on Robotics and Automation)
+  - IROS (IEEE/RSJ International Conference on Intelligent Robots and Systems)
+
+
 <div style="float: left;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0L1V6UCyFnitObp8Ny8uoifdr1GIHXOvH-sxGOtzbXs&cl=ffffff&w=a"></script>
 </div>
 
-##<span id="news"></span>
+<span id="news"></span>
 
 # 🔥 News
 
@@ -67,7 +81,7 @@
 - I obtained my B.S. degree with a thesis entitled “[Design of a Lightweight Robotic Mule](https://hdl.handle.net/20.500.11811/10228)”,  
   supervised by [Janet Dong](https://researchdirectory.uc.edu/p/dongjg) at the University of Cincinnati, America, in 2021.
 
-##<span id="publications"></span>
+<span id="publications"></span>
 
 # 📝 Publications
 \* represents equal contribution.
@@ -84,6 +98,12 @@
   *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2025)***
   
   Dongkun Zhang, Jiaming Liang, Ke Guo, **<u>Sha Lu</u>**, Qi Wang, Rong Xiong, Zhenwei Miao, Yue Wang
+
+- [SeqBEV: Bayesian Sequential Localization Using BEV LiDAR Map](xxx)
+  
+  *In Proc. of the IEEE Intl. Conf. on Real-time Computing and Robotics **(RCAR 2025)***
+  
+  **<u>Sha Lu</u>**, Yufei Wei, Rong Xiong, Yue Wang
 
 - [BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground](https://ieeexplore.ieee.org/document/10909180)  [[PDF]](https://arxiv.org/abs/2502.20078)
 

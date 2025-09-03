@@ -16,6 +16,12 @@
   
   Dongkun Zhang, Jiaming Liang, Ke Guo, **<u>Sha Lu</u>**, Qi Wang, Rong Xiong, Zhenwei Miao, Yue Wang
 
+- [SeqBEV: Bayesian Sequential Localization Using BEV LiDAR Map](xxx)
+  
+  *In Proc. of the IEEE Intl. Conf. on Real-time Computing and Robotics **(RCAR 2025)***
+  
+  **<u>Sha Lu</u>**, Yufei Wei, Rong Xiong, Yue Wang
+
 - [BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground](https://ieeexplore.ieee.org/document/10909180)  [[PDF]](https://arxiv.org/abs/2502.20078)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
