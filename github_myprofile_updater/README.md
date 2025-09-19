@@ -11,7 +11,7 @@
 
 - Here is my extended CV ([pdf](cv/cv_ls.pdf)).
 
-<span id="educations"></span>
+##<span id="educations"></span>
 
 # 📖 Educations
 - **2021.09 - 2026.06**, Ph.D. in Robotics, Zhejiang University<br>
@@ -70,7 +70,7 @@ Reviewer for top robotics journals and conferences:
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0L1V6UCyFnitObp8Ny8uoifdr1GIHXOvH-sxGOtzbXs&cl=ffffff&w=a"></script>
 </div>
 
-<span id="news"></span>
+##<span id="news"></span>
 
 # 🔥 News
 
@@ -81,7 +81,7 @@ Reviewer for top robotics journals and conferences:
 - I obtained my B.S. degree with a thesis entitled “[Design of a Lightweight Robotic Mule](https://hdl.handle.net/20.500.11811/10228)”,  
   supervised by [Janet Dong](https://researchdirectory.uc.edu/p/dongjg) at the University of Cincinnati, America, in 2021.
 
-<span id="publications"></span>
+##<span id="publications"></span>
 
 # 📝 Publications
 \* represents equal contribution.
