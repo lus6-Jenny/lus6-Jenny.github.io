@@ -4,6 +4,12 @@
 \* represents equal contribution.
 
 ##  2025
+- [BEV-ODOM2: Enhanced BEV-based Monocular Visual Odometry with PV-BEV Fusion and Dense Flow Supervision for Ground Robots](https://www.arxiv.org/abs/2509.14636) [[PDF]](https://www.arxiv.org/abs/2509.14636)
+  
+  *arXiv*
+  
+  Yufei Wei, Wangtao Lu, **<u>Sha Lu</u>**, Chenxiao Hu, Fuzhang Han, Rong Xiong, Yue Wang
+
 - [Sparse Hierarchical LiDAR Bundle Adjustment for Online Collaborative Localization and Mapping](https://ieeexplore.ieee.org/abstract/document/10947501)  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10947501)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
@@ -71,6 +77,12 @@
   *IEEE Transactions on Robotics (**T-RO**)*
   
   Xuecheng Xu*, **<u>Sha Lu*</u>**, Jun Wu, Haojian Lu, Qiuguo Zhu, Yiyi Liao, Rong Xiong, Yue Wang
+
+- [Leveraging BEV representation for 360-degree visual place recognition](https://arxiv.org/pdf/2305.13814)  [[PDF]](https://arxiv.org/pdf/2305.13814)  [![](https://img.shields.io/github/stars/MaverickPeter/vDiSCO?style=social&label=Code+Stars)](https://github.com/MaverickPeter/vDiSCO)
+  
+  *arXiv*
+  
+  Xuecheng Xu, Yanmei Jiao, **<u>Sha Lu</u>**, Xiaqing Ding, Rong Xiong, Yue Wang
 
 - [DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition](https://ieeexplore.ieee.org/document/10161435)  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161435)
 

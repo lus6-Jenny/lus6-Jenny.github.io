@@ -53,6 +53,6 @@ Reviewer for top robotics journals and conferences:
   - IROS (IEEE/RSJ International Conference on Intelligent Robots and Systems)
 
 
-<div style="float: left;">
+<div style="float: left; width: 300px; min-height: 150px;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0L1V6UCyFnitObp8Ny8uoifdr1GIHXOvH-sxGOtzbXs&cl=ffffff&w=a"></script>
 </div>
