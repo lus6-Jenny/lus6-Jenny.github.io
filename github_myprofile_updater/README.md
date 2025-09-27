@@ -3,7 +3,7 @@
 # 🤖 About Me
 - I'm a Ph.D. candidate in the [Department of Control Science and Engineering](http://www.cse.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/), China. I'm supervised by [Prof. Rong Xiong](https://person.zju.edu.cn/en/rongxiong) and [Prof. Yue Wang](https://ywang-zju.github.io/). 
 
-- My research topics are Robotics and Autonomous Driving. I'm particularly interested in the following areas: Localization, SLAM, and Deep Learning.
+- My research topics are Robotics and Autonomous Driving. I'm particularly interested in the following areas: Localization, VLN, SLAM, and Deep Learning.
 
 - I have published 10+ peer-reviewed academic papers at the top international robotics journals and conferences, such as TRO, IJCV, TIM, RAL, CVPR, ICRA, and IROS. <a href='https://scholar.google.com/citations?user=S9pvR_IAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Flus6-jenny.github.io%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=Google%20Scholar"></a>
 <!-- <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flus6-Jenny%2Flus6-Jenny.github.io%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=Google%20Scholar"> -->
@@ -66,7 +66,7 @@ Reviewer for top robotics journals and conferences:
   - IROS (IEEE/RSJ International Conference on Intelligent Robots and Systems)
 
 
-<div style="float: left;">
+<div style="float: left; width: 300px; min-height: 150px;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0L1V6UCyFnitObp8Ny8uoifdr1GIHXOvH-sxGOtzbXs&cl=ffffff&w=a"></script>
 </div>
 
@@ -74,9 +74,9 @@ Reviewer for top robotics journals and conferences:
 
 # 🔥 News
 
-- Research Interests: Robotics, Autonomous Driving (especially SLAM, Localization, Place Recognition, ...)
+- Research Interests: Robotics, Autonomous Driving (especially Robot Learning, SLAM, Localization, Place Recognition, VLN, ...)
 
-- If you are interested in my research or have any questions, please feel free to contact me via [lusha@zju.edu.cn](mailto:lusha@zju.edu.cn).
+- If you are interested in my research or would like to collaborate, please feel free to contact me via [lusha@zju.edu.cn](mailto:lusha@zju.edu.cn).
 
 - I obtained my B.S. degree with a thesis entitled “[Design of a Lightweight Robotic Mule](https://hdl.handle.net/20.500.11811/10228)”,  
   supervised by [Janet Dong](https://researchdirectory.uc.edu/p/dongjg) at the University of Cincinnati, America, in 2021.
@@ -87,6 +87,12 @@ Reviewer for top robotics journals and conferences:
 \* represents equal contribution.
 
 ##  2025
+- [BEV-ODOM2: Enhanced BEV-based Monocular Visual Odometry with PV-BEV Fusion and Dense Flow Supervision for Ground Robots](https://www.arxiv.org/abs/2509.14636) [[PDF]](https://www.arxiv.org/abs/2509.14636)
+  
+  *arXiv*
+  
+  Yufei Wei, Wangtao Lu, **<u>Sha Lu</u>**, Chenxiao Hu, Fuzhang Han, Rong Xiong, Yue Wang
+
 - [Sparse Hierarchical LiDAR Bundle Adjustment for Online Collaborative Localization and Mapping](https://ieeexplore.ieee.org/abstract/document/10947501)  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10947501)
 
   *IEEE Robotics and Automation Letters **(RA-L)***
@@ -154,6 +160,12 @@ Reviewer for top robotics journals and conferences:
   *IEEE Transactions on Robotics (**T-RO**)*
   
   Xuecheng Xu*, **<u>Sha Lu*</u>**, Jun Wu, Haojian Lu, Qiuguo Zhu, Yiyi Liao, Rong Xiong, Yue Wang
+
+- [Leveraging BEV representation for 360-degree visual place recognition](https://arxiv.org/pdf/2305.13814)  [[PDF]](https://arxiv.org/pdf/2305.13814)  [![](https://img.shields.io/github/stars/MaverickPeter/vDiSCO?style=social&label=Code+Stars)](https://github.com/MaverickPeter/vDiSCO)
+  
+  *arXiv*
+  
+  Xuecheng Xu, Yanmei Jiao, **<u>Sha Lu</u>**, Xiaqing Ding, Rong Xiong, Yue Wang
 
 - [DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition](https://ieeexplore.ieee.org/document/10161435)  [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161435)
 
