@@ -61,7 +61,6 @@
 
 Reviewer for top robotics journals and conferences:
   - IJRR (The International Journal of Robotics Research)
-  - IEEE TRO (Transactions on Robotics)
   - IEEE RAL (Robotics and Automation Letters)
   - ICRA (IEEE International Conference on Robotics and Automation)
   - IROS (IEEE/RSJ International Conference on Intelligent Robots and Systems)
